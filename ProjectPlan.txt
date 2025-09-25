@@ -10,6 +10,11 @@ Course Code: CSD230
 Healthcare accessibility is a critical aspect of urban life, but patients often struggle to find nearby doctors with the right specialization and availability. DocHunt is a proposed web-based application built using React (with Bootstrap) for the frontend and Spring Boot for the backend. The system will allow users to search for doctors in their area, view profiles with specializations, ratings, and availability, and book appointments online.
 
 Team roles and responsibilities:
-Preet Patel
+Preet Patel:  Backend architecture,  Responsible for springboot project setup
+Sakshi Sakshi: Frontend architecture, Responsible for React and Bootstrap theme, search/filters, cards, responsiveness
+Ved Patel: Scheduling & persistence, Responsible for Availability model, appointment logic, DB schema(MySQL)
+Piyush Piyush: Reviews, admin console, testing & debugging, Responsible for Reviews flow, admin moderation, test plan, debugging, API/README/docs
+
+
 
 
