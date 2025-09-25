@@ -49,7 +49,18 @@ Backend (Spring Boot): Develop REST APIs for doctor management, user authenticat
 Database (MySQL): Store doctor details, user accounts, bookings, and reviews
 Integration: Frontend communicates with backend via JSON-based REST APIs
 
+7. Expected Outcomes
+A fully functional doctor-finder web application.
+Improved accessibility for patients to locate healthcare providers quickly.
+Online booking system to reduce waiting times.
+A scalable, modular system that can later integrate with telemedicine services.
 
+8. Project Timeline 
+Week 1–3: Requirements gathering & UI design.
+Week 4–6: Backend development with Spring Boot APIs.
+Week 7–9: Frontend development with React + Bootstrap.
+Week 10: Integration & testing.
+Week 11: Final presentation.
 
-
-
+9. Conclusion
+DocHunt will bridge the gap between patients and healthcare providers by offering an easy-to-use doctor search and booking platform. With a React + Bootstrap frontend for responsive design and a Spring Boot backend for robust API management, this project will deliver a scalable, real-world solution for healthcare accessibility.
