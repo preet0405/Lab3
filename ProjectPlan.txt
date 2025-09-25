@@ -15,6 +15,41 @@ Sakshi Sakshi: Frontend architecture, Responsible for React and Bootstrap theme,
 Ved Patel: Scheduling & persistence, Responsible for Availability model, appointment logic, DB schema(MySQL)
 Piyush Piyush: Reviews, admin console, testing & debugging, Responsible for Reviews flow, admin moderation, test plan, debugging, API/README/docs
 
+2. Problem Statement
+Patients currently face several issues in locating healthcare providers:
+Difficulty booking appointments online in real-time.
+Lack of doctor rating/review integration for decision-making.
+DocHunt will address these challenges by creating a unified platform that connects patients with healthcare providers.
+
+3. Objectives
+The primary objectives of this project are:
+Build a user-friendly web application using React + Bootstrap.
+Implement a RESTful API backend using Spring Boot to handle data storage, authentication, and booking logic.
+Integrate location-based doctor search and specialization filters.
+Allow users to book appointments online and view doctor availability.
+Enable users to leave ratings/reviews for doctors.
+
+4. Features
+User Authentication – Secure login/signup for patients and doctors.
+Doctor Profiles – Display specialization, experience, availability, and ratings
+Search & Filter – Location-based search with filters for specialization and availability.
+Appointment Booking – Patients can schedule consultations online.
+Ratings & Reviews – Patients can provide feedback for doctors.
+Responsive UI – Clean, mobile-friendly design with Bootstrap.
+
+5. Technology Stack
+Frontend: React, Bootstrap
+Backend: Spring Boot (REST APIs)
+Database: MySQL (connected via Spring Data JPA
+Tools: GitHub (version control)
+
+6. Methodology
+Frontend (React + Bootstrap): Build reusable components for search, forms, profile cards, and booking pages.
+Backend (Spring Boot): Develop REST APIs for doctor management, user authentication, and appointment booking.
+Database (MySQL): Store doctor details, user accounts, bookings, and reviews
+Integration: Frontend communicates with backend via JSON-based REST APIs
+
+
 
 
 
