@@ -7,7 +7,5 @@ Instructor: Nawaz Chowdhury
 Course Name: Adv Web Applications
 Course Code: CSD230
 
-<<<<<<< HEAD
-=======
+
 Healthcare accessibility is a critical aspect of urban life, but patients often struggle to find nearby doctors with the right specialization and availability. DocHunt is a proposed web-based application built using React (with Bootstrap) for the frontend and Spring Boot for the backend. The system will allow users to search for doctors in their area, view profiles with specializations, ratings, and availability, and book appointments online.
->>>>>>> version_sakshi2
