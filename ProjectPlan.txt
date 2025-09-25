@@ -1,0 +1,8 @@
+Project Plan Title: DocHunt – A Doctor Finder Application
+Members: Sakshi Sakshi(23099047)
+Preet Patel(23094176)
+Ved Patel(23094884)
+Piyush Piyush(22050267)
+Instructor: Nawaz Chowdhury
+Course Name: Adv Web Applications
+Course Code: CSD230
